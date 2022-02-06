@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Serge01-coder
 - 👀 I’m interested in ... becoming a full stack software engineer
-- 🌱 I’m currently learning ... HTML
-- 💞️ I’m looking to collaborate on ... anything I can learn from
+- 🌱 I’m currently learning ... HTML, Python
+- 💞️ I’m looking to collaborate on ... nothing for now, I just learned print("Hello, World")
 - 📫 How to reach me ...
 
 <!---
